@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: B70
+name: R3g
 
 on:
   repository_dispatch:
